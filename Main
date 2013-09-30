@@ -1,1 +1,6 @@
-#
+# strategies:
+
+# sound to text convertion with time stamps(subtitle)
+# Time of sound and a time keeper
+# Sound to Text conversion and a data structure for subtitle(time resolution at words)
+# Sound/Text division
